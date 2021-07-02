@@ -10,6 +10,7 @@ namespace RestaurantMenu
             newMenu.AddItems();
             newMenu.AddItems();
             newMenu.RemoveItem();
+            newMenu.PrintMenu(); 
         }
     }
 }
